@@ -18,7 +18,7 @@ This repository hosts presentation materials, slides, and related resources from
 
 | Date | Event | Type | Speaker | Title | Materials |
 |------|-------|------|---------|-------|-----------|
-| 2026-03-18 | **Bank of America** Quant Speaker Series | Seminar | Yaxuan Kong | *Fusing Narrative Semantics for Financial Volatility Forecasting* | [Slides (PDF)](./2026-03-18_BofA_Quant_Seminar/BofA_Quant_Seminar_Oxford_FAQ.pdf) |
+| 2026-03-18 | **Bank of America** Quant Speaker Series | Seminar | Yaxuan Kong | *Fusing Narrative Semantics for Financial Volatility Forecasting* | [Slides (PDF)](./2026_03_18_BofA_Quant_Speaker_Series_Seminar/BofA_Quant_Seminar_Oxford_FAQ.pdf) |
 
 ## How This Repo is Organized
 
