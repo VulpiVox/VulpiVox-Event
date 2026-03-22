@@ -16,16 +16,21 @@ We introduce M2VN: Multi-Modal Volatility Network, a novel deep learning-based f
 
 ## Reference
 
+Yaxuan Kong, Yoontae Hwang, Marcus Kaiser, Chris Vryonides, Roel Oomen, and Stefan Zohren. 2025. Fusing Narrative Semantics for Financial Volatility Forecasting. Proceedings of the 6th ACM International Conference on AI in Finance. Association for Computing Machinery, New York, NY, USA, 683–691. https://doi.org/10.1145/3768292.3771256
+
+## Cite
+
 ```bibtex
-@misc{kong2025fusingnarrativesemanticsfinancial,
-      title={Fusing Narrative Semantics for Financial Volatility Forecasting},
-      author={Yaxuan Kong and Yoontae Hwang and Marcus Kaiser and Chris Vryonides and Roel Oomen and Stefan Zohren},
-      year={2025},
-      eprint={2510.20699},
-      archivePrefix={arXiv},
-      primaryClass={q-fin.CP},
-      url={https://arxiv.org/abs/2510.20699},
+@inbook{10.1145/3768292.3771256,
+author = {Kong, Yaxuan and Hwang, Yoontae and Kaiser, Marcus and Vryonides, Chris and Oomen, Roel and Zohren, Stefan},
+title = {Fusing Narrative Semantics for Financial Volatility Forecasting},
+year = {2025},
+isbn = {9798400722202},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3768292.3771256},
+booktitle = {Proceedings of the 6th ACM International Conference on AI in Finance},
+pages = {683–691},
+numpages = {9}
 }
 ```
-
-Kong, Y., Hwang, Y., Kaiser, M., Vryonides, C., Oomen, R., & Zohren, S. (2025). Fusing Narrative Semantics for Financial Volatility Forecasting. *Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF '25)*, Singapore. [https://doi.org/10.1145/3768292.3771256](https://doi.org/10.1145/3768292.3771256) | [arXiv:2510.20699](https://arxiv.org/abs/2510.20699)
