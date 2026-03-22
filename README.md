@@ -29,8 +29,4 @@ Each event gets its own folder named by date and event. Inside you will find the
 - Web: [vulpivox.com](https://vulpivox.com)
 - GitHub: [@VulpiVox](https://github.com/VulpiVox)
 
----
-
-<div align="center">
-<sub>Maintained by VulpiVox Lab</sub>
 </div>
