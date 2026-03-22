@@ -12,7 +12,7 @@ We introduce M2VN: Multi-Modal Volatility Network, a novel deep learning-based f
 
 ## Materials
 
-- [Slides (PDF)](../2026-03-18_BofA_Quant_Seminar/BofA_Quant_Seminar_Oxford_FAQ.pdf)
+- [Slides (PDF)](./BofA_Quant_Seminar_Oxford_FAQ.pdf)
 
 ## Reference
 
