@@ -12,15 +12,17 @@ We introduce M2VN: Multi-Modal Volatility Network, a novel deep learning-based f
 
 ## Materials
 
-- [Slides (PDF)](./BofA_Quant_Seminar_Oxford_FAQ.pdf)
+- **Slides:** [Presentation PDF](./BofA_Quant_Seminar_Oxford_FAQ.pdf)
+- **M2VN Code:** [Eleanorkong/M2VN-Multi-Modal-Learning-Network-for-Volatility-Forecasting](https://github.com/Eleanorkong/M2VN-Multi-Modal-Learning-Network-for-Volatility-Forecasting)
 
 ## Related Resources
 
-- **M2VN Code:** [Eleanorkong/M2VN-Multi-Modal-Learning-Network-for-Volatility-Forecasting](https://github.com/Eleanorkong/M2VN-Multi-Modal-Learning-Network-for-Volatility-Forecasting)
-- **Bias Framework:** [Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation](https://github.com/Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation)
+- **LLM Bias Framework:** [Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation](https://github.com/Eleanorkong/Awesome-Financial-LLM-Bias-Mitigation)
+- **Financial LLM Bias Paper:** [Evaluating LLMs in Finance Requires Explicit Bias Consideration](https://arxiv.org/abs/2602.14233)
 - **LLM-Finance Survey:**
-  - Kong, Y., Dong, X., et al. (2025). Large Language Models for Financial and Investment Management: Applications and Benchmarks. *The Journal of Portfolio Management*, 51(2), 162–185. [DOI](https://www.pm-research.com/content/iijpormgmt/51/2/162)
-  - Kong, Y., Dong, X., et al. (2024). Large Language Models for Financial and Investment Management: Models, Opportunities, and Challenges. [PDF](https://web.media.mit.edu/~xdong/paper/jpm24c.pdf)
+  - Kong, Y., Nie, Y., et al. (2024). Large Language Models for Financial and Investment Management: Applications and Benchmarks. *The Journal of Portfolio Management*, 51(2), 162–185. [Link](https://www.pm-research.com/content/iijpormgmt/51/2/162)
+  - Kong, Y., Nie, Y., et al. (2024). Large Language Models for Financial and Investment Management: Models, Opportunities, and Challenges. [Link](https://web.media.mit.edu/~xdong/paper/jpm24c.pdf)
+  - Nie, Y., Kong, Y., et al. (2024). A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges. [Link](https://arxiv.org/abs/2406.11903)
 
 ## Reference
 
